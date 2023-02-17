@@ -14,7 +14,7 @@ This project to crawl image using icrawler lib of python
 
 - git clone .
 - Create virual enviroment: python -m venv venv
-- Active virual enviroment in Windows: vevn\Scripts\activate
+- Activate virual enviroment in Windows: .\venv\Scripts\activate
 - Install package: pip install - requiments.txt
 
 
