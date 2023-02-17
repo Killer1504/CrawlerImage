@@ -4,11 +4,12 @@ This project to crawl image using icrawler lib of python
 
 ## Getting Started
 
-- Python3 basic
+
 
 ### Prerequisites
 
 - Visual studio code
+- Python3 basic
 
 ### Installation
 
