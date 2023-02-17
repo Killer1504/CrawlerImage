@@ -1,0 +1,5 @@
+venv
+*.pyc
+app/__pycache__
+
+Images
